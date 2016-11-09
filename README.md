@@ -8,6 +8,7 @@
 - Esquerda e;
 
 - Direita.
+
 # Problema a gerenciar:
 - Recuperar Estados;
 
