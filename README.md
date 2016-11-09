@@ -8,9 +8,9 @@ Esquerda e;
 
 Direita.
 # Problema a gerenciar:
-Recuperar Estados;
+- Recuperar Estados;
 
-Organizar Imigração.
+- Organizar Imigração.
 
 # Recuperar Estados:
 O governador deve chegar à região em, no máximo 3 movimento para resolver o problema. Se não chegar a tempo, a entrada fica intransitável.
