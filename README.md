@@ -3,6 +3,7 @@
 
 # Jogo
 - O governante deve gerenciar os problemas que aparecem nas regiões do seu mapa. As regiões são vizinhas e inicilamente são 10
+
 # Movimentos possíveis ao governante
 - Esquerda e;
 
